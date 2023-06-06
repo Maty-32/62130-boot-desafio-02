@@ -1,0 +1,81 @@
+body {
+    background-color: #273238;
+}
+
+:root {
+    --color1: #e6cbbf;
+    --color2: #a1c1cb;
+    --color3: #bcbdbf;
+    --color4: #8d94a1;
+    --color5: #b2b2aa;
+}
+
+/* Caracteristicas del texto */
+h1 {
+    color: #698593;
+    font-family: Impact, Charcoal, sans-serif;
+    text-align: center;
+    background-color: #ffffff;
+    font-size: 40px;
+}
+
+h2 {
+    font-family: Arial, Gadget, sans-serif;
+    font-weight: 900;
+}
+
+p {
+    color: #c1cad6;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    font-size: small;
+
+}
+
+/* Colores titulos */
+.c-rosita {
+    color: var(--color1);
+}
+
+.c-celeste {
+    color: var(--color2);
+}
+
+.c-gris-claro {
+    color: var(--color3);
+}
+
+.c-gris-oscuro {
+    color: var(--color4);
+}
+
+.c-crema {
+    color: var(--color5);
+}
+
+/* Imagenes */
+IMg {
+    width: 415px;
+    padding: 3px;
+    margin: 10px 45px;
+}
+
+/* Colores bordes imagenes */
+.aspiradora {
+    background-color: var(--color1);
+}
+
+.celulares {
+    background-color: var(--color2);
+}
+
+.consolas {
+    background-color: var(--color3);
+}
+
+.home_theaters {
+    background-color: var(--color4);
+}
+
+.televisores {
+    background-color: var(--color5);
+}

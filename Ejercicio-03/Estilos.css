@@ -1,0 +1,38 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: #bb5397;
+    text-align: center;
+    letter-spacing: 15px;
+}
+
+h2 {
+    color: #bb5397;
+    letter-spacing: 6px;
+    font-size: small;
+}
+
+p {
+    color: #4e6cb9;
+    font-size: 68%;
+}
+#Logo-disney-hotels {
+    display: block;
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    width: 250px;
+    margin: 2px 10px;
+}
+#ultima-imagen {
+    width: 100%;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
